@@ -1,0 +1,3 @@
+F:/Programowanie/Cpp/SFML_GAME_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Programowanie/Cpp/SFML_GAME_1/cmake-build-debug/CMakeFiles/SFML_GAME_1.dir
+F:/Programowanie/Cpp/SFML_GAME_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+"E:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\Programowanie\Cpp\SFML_GAME_1
+-- Found SFML 2.5.0 in F:/Programowanie/Cpp/SFML_GAME_1/lib/sfml/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Programowanie/Cpp/SFML_GAME_1/cmake-build-debug
